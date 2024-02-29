@@ -1,0 +1,8 @@
+$primary-color: red;
+
+$secondary-color: pink; 
+
+@import 'reset';
+@import 'base';
+@import 'nav';
+@import 'content';
